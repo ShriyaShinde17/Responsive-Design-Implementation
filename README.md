@@ -15,4 +15,4 @@ Design Principles Used:
 - Balanced color palette
 - Modern and readable typography
 
-Link- https://www.figma.com/design/ZXX4iBa0At4oOxYrhKFtL7/Untitled?t=zkAHJGCnayZpWGM0-1
+Link- https://www.figma.com/design/ZXX4iBa0At4oOxYrhKFtL7/Responsive-Webpage-Design?t=zkAHJGCnayZpWGM0-1
